@@ -1,0 +1,63 @@
+body{
+    background-color: beige;
+}
+h1,h2,h3,h4{
+    color: black;
+    text-align: center;
+    color: darkseagreen;
+    text-align: center;
+    color: black;
+    text-align: center;
+    color: indigo;
+    text-align: center;
+}
+li{
+    display: block;
+    float: left;
+}
+li a{
+    display: block;
+    color: blue;
+    text-align: left;
+    padding: 40px 100px;
+    text-decoration: none;
+}
+form{  
+    text-align: center;
+}
+fieldset{
+    text-align: center;
+}
+/* styles.css */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 2px solid #dddddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+
+
+
+
+
+
